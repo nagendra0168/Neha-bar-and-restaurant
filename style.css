@@ -5,9 +5,8 @@
   }
 }
 .jumbotron {
-  background-color: #f4511e;
+  background-color:#0091EA;
   color: #fff;
-  padding: 100px 25px;
 }
 
 .container-fluid {
@@ -48,11 +47,14 @@ background-image: url('logo3.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    min-height: 460px;
+    min-height: 500px;
     transition: all .5s ease-in-out;
         -webkit-transition: all .5s ease-in-out;
            -moz-transition: all .5s ease-in-out;   
-padding-bottom: 120px;
+}
+#header h1{
+     font-size: 40px;
+    color: #fff;
 }
 /*------------About ---------*/
 
@@ -68,6 +70,24 @@ padding-bottom: 120px;
 
 
 /*------------Dinner Menu----------*/
+.dinnerbg{
+     background-image: url('logo10.jpg');
+  margin: auto;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    transition: all .5s ease-in-out;
+        -webkit-transition: all .5s ease-in-out;
+           -moz-transition: all .5s ease-in-out;   
+               min-height: 360px;
+               width: 100%;
+
+}
+.dinnerbg h1{
+    font-size: 40px;
+    color: #fff;
+    padding-top: 90px;
+}
 
 .panel {
   border: 1px solid #f4511e;
@@ -110,7 +130,7 @@ padding-bottom: 120px;
   background-color: #2f2f2f;
   color: #ffffff;
     padding: 20px;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
 
 }
 
