@@ -7,10 +7,13 @@
 .jumbotron {
   background-color:#0091EA;
   color: #fff;
+  padding: 60px 50px;
 }
 
 .container-fluid {
-  padding: 60px 50px;
+  padding-top: 50px;
+    padding-bottom: 50px;
+    
 }
 
 /*----------NAVBAR---------*/
@@ -18,7 +21,7 @@
 
 .navbar {
   margin-bottom: 0;
-  background-color: #0091EA;
+background-color: #0091EA;
   z-index: 9999;
   border: 0;
   font-size: 12px !important;
@@ -53,9 +56,16 @@ background-image: url('logo3.jpg');
            -moz-transition: all .5s ease-in-out;   
 }
 #header h1{
-     font-size: 40px;
-    color: #fff;
+       font-size: 40px;
+    color:whitesmoke;
+    font-style: lato;
 }
+.bg-1 { 
+    background-color:#0091EA; /* Green */
+    color: #ffffff;
+  }
+    .margin {margin-bottom: 45px;}
+
 /*------------About ---------*/
 
 .bg-grey {
@@ -65,7 +75,9 @@ background-image: url('logo3.jpg');
   padding-bottom: 70px;
   font-weight: 20px;
 }
-
+.bg-grey h2,h4{
+    color: blue;
+}
 
 
 
@@ -87,6 +99,7 @@ background-image: url('logo3.jpg');
     font-size: 40px;
     color: #fff;
     padding-top: 90px;
+    font-style: lato;
 }
 
 .panel {
