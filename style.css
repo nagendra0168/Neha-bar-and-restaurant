@@ -7,14 +7,16 @@
 .jumbotron {
   background-color:#0091EA;
   color: #fff;
-  padding: 60px 50px;
+padding-right: 0px;
+  display: flex;
+  justify-content: flex-start;
 }
 
 .container-fluid {
-  padding-top: 50px;
-    padding-bottom: 50px;
-    
+ padding-top: 70px;
+  padding-bottom: 0px;
 }
+
 
 /*----------NAVBAR---------*/
 
@@ -50,21 +52,22 @@ background-image: url('logo3.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    min-height: 500px;
+    min-height: 600px;
     transition: all .5s ease-in-out;
         -webkit-transition: all .5s ease-in-out;
            -moz-transition: all .5s ease-in-out;   
+           display: flex;
+           margin-bottom: 0px;
 }
 #header h1{
-       font-size: 40px;
-    color:whitesmoke;
+       font-size: 30px;
+    color:white;
     font-style: lato;
 }
 .bg-1 { 
     background-color:#0091EA; /* Green */
     color: #ffffff;
   }
-    .margin {margin-bottom: 45px;}
 
 /*------------About ---------*/
 
@@ -75,15 +78,15 @@ background-image: url('logo3.jpg');
   padding-bottom: 70px;
   font-weight: 20px;
 }
-.bg-grey h2,h4{
-    color: blue;
+.bg-grey p{
+    text-align:left;
 }
 
 
 
 /*------------Dinner Menu----------*/
 .dinnerbg{
-     background-image: url('logo10.jpg');
+     background-image: url('logo8.jpg');
   margin: auto;
     background-size: cover;
     background-position: center;
@@ -102,25 +105,12 @@ background-image: url('logo3.jpg');
     font-style: lato;
 }
 
-.panel {
-  border: 1px solid #f4511e;
-  border-radius:0;
-  transition: box-shadow 0.5s;
-}
 
-.panel-heading {
-  color: #fff !important;
-  background-color: #f4511e !important;
-  padding: 25px;
-  border-bottom: 1px solid transparent;
-  border-top-left-radius: 0px;
-  border-top-right-radius: 0px;
-  border-bottom-left-radius: 0px;
-  border-bottom-right-radius: 0px;
-}
+
+
 
 /*------------Book A table----------*/
-.bg-booking{
+ .bg-booking{
     background-image: url('logo7.jpg');
    width: 100%; /* Set width to 100% */
   margin: auto;
@@ -131,7 +121,9 @@ background-image: url('logo3.jpg');
     transition: all .5s ease-in-out;
         -webkit-transition: all .5s ease-in-out;
            -moz-transition: all .5s ease-in-out;   
-padding-bottom: 120px;
+margin-top: 0px;
+padding-top: 35px;
+padding-bottom: 40px;
 }
 
 
@@ -142,9 +134,8 @@ padding-bottom: 120px;
 .bg-footer {
   background-color: #2f2f2f;
   color: #ffffff;
-    padding: 20px;
-  margin-bottom: 10px;
-
+      padding: 20px;
+  margin-bottom:0px;
 }
 
 .social-links {
