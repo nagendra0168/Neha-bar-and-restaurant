@@ -46,7 +46,7 @@ background-color: #0091EA;
   color: #fff !important;
 }
 #header{
-background-image: url('logo3.jpg');
+background-image: url('images/logo3.jpg');
    width: 100%; /* Set width to 100% */
   margin: auto;
     background-size: cover;
@@ -86,7 +86,7 @@ background-image: url('logo3.jpg');
 
 /*------------Dinner Menu----------*/
 .dinnerbg{
-     background-image: url('logo8.jpg');
+     background-image: url('images/logo8.jpg');
   margin: auto;
     background-size: cover;
     background-position: center;
@@ -111,7 +111,7 @@ background-image: url('logo3.jpg');
 
 /*------------Book A table----------*/
  .bg-booking{
-    background-image: url('logo7.jpg');
+    background-image: url('images/logo7.jpg');
    width: 100%; /* Set width to 100% */
   margin: auto;
     background-size: cover;
