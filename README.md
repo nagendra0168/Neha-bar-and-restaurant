@@ -128,57 +128,6 @@ Steps to deploy the website from GitHub.
 
 - The code for menu items is written by me and i took the help from my mentor Akshat Garg.
 
-
-
-
-
-
-
-
-
-
-
-
- Demo
-
-A live demo can be found at https://8000-dd0a8f55-e76f-4dd6-b7d2-b595a3fc7056.ws-eu01.gitpod.io/
-
-UX
-
-My goal in the design was to make information accessible on the site, while striving for a minimalist design.
-
-Technologies
-
-1.HTML
-2.CSS
-3.BOOTSTRAP
-
-Features
-
-This site uses bootstrap classes.
-
-Testing
-
-This site was manually tested to ensure compatibility and responsiveness.
-
-Deployment
-
-The live site is deployed on GitHub pages. It uses the master branch. It updates each time there is a new push to the repository.
-
-Credits
-
-Content
-
-All content in the "" and "Work" sections in this portfolio site were written by me.
-
-Media
-
-All photos were taken from https://www.google.com/, a stock image library.
-
-Acknowledgements
-
-The progress circles from the skills section are modeled after the following Stack Overflow: https://https://www.w3schools.com/css/. They were significantly modified to fit the styling, sizing, and progress for each skill.
-
-This is for educational use.
+ - This is for educational use.
 
 
