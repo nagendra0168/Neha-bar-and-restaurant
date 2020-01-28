@@ -1,4 +1,4 @@
-# Neha Bar And Restaurant
+# Milestone Project one - Neha Bar And Restaurant
 
 This is my first website which describes about the Neha Bar and Restaurant . Iam working as a chef now so i got an
 idea to create website for restaurant.This website mainly describes about the menu of the restaurant so the customer
@@ -9,7 +9,15 @@ The deployed website can be found here
 
 ## UX
 
-As a designer of this website, i can say this website has full information  to the customer.
+As a designer of this website, i can say this website has full information  to the customer.The customer can find
+lunch menu from monday to friday and dinner menu has starters , meat and fish menu.
+
+ I want to give the customers with good experience for the first visit itself.The website also included images  for 
+ the menu items  and restaurant and bar image .
+
+ ## User Stories
+
+- 
 
 
  Demo
