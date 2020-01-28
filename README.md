@@ -1,10 +1,16 @@
-# challenge-command
+# Neha Bar And Restaurant
 
-NEHA BAR AND RESTAURANT
-Stream One Project: User Centric Frontend Development - Code Institute
+This is my first website which describes about the Neha Bar and Restaurant . Iam working as a chef now so i got an
+idea to create website for restaurant.This website mainly describes about the menu of the restaurant so the customer
+ can read  about the restaurant and about the menu . This website has dinner menu,lunch menu,booking a table and contact
+ sections. As a chef i know the menus so i wrote everything my self but i have written everything in swedish language.
 
-This is my first website which describes about the NEHA Bar and Restaurant . This website mainly describes about the menu of the restaurant so the customer can read 
- about the restaurant and about the menu . In this portfolio i mainly focus on the my coding skills using HTML,CSS,BOOTSTRAP.
+The deployed website can be found here
+
+## UX
+
+As a designer of this website, i can say this website has full information  to the customer.
+
 
  Demo
 
