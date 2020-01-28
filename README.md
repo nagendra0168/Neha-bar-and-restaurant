@@ -17,7 +17,126 @@ lunch menu from monday to friday and dinner menu has starters , meat and fish me
 
  ## User Stories
 
-- 
+-  as a user of the website, I can easily navigate between the sections of the website.
+
+-  as a first time user of the website, I can easily know what iam looking for in the website.
+
+-  as a potential customer , i can easily I can easily locate the business' social media profiles where 
+   I will be able to get more information  and read reviews.
+
+-  as a potential customer who is trying to pick a menu , I can find information on the individual 
+   cities and compare my options.
+
+ ## Wireframes
+
+    I draw the images how the webiste looks like so any one who wants to see ,its easy for them to understand the concept
+     of the website.
+
+ - [Navigation bar]()
+
+ - [Website concept]()    
+
+ ## Features
+
+  ### About:
+
+This section is about Neha bar and restaurant . This section describes where is the restaurant located and about the 
+history of the restaurant.
+
+### Lunch:
+
+This section is about the lunch menu from monday to friday.So the customer know what is the menu everyday.
+
+### Dinner:
+
+This section is about the dinner menu . The dinner menu has starters , what kind of meat and fish menu.
+
+### Book board:
+
+In this section the customer can book a table for his family.
+
+### Contact:
+
+This section describes the address of the restaurant.
+
+### Future Features
+
+- The customer  can see videos of the events happend in the restaurant in the website.
+
+- The user can search in google map whre is the restaurang is located.
+
+- As a designer i like to take the feedback from the customer online.
+
+## Technologies Used
+
+- HTML - I used this to build the entire site and each individual page.
+
+- CSS - This was used to style the html code.
+
+- [Bootstrap](https://getbootstrap.com/) Bootstrap was used to make the site responsive on 
+all devices  and the main structure of the site.
+
+## Testing
+
+The HTML code was put through the [W3C Markup Validator](https://validator.w3.org/) to check for syntax errors. Similarly, 
+the CSS code was put through the [W3C CSS Validator](https://jigsaw.w3.org/css-validator/).
+
+All the following testing has been carried out on smaller screens running both iOS and Android and on larger screens 
+running both macOS and Windows in multiple browsers. In addition, Chrome's developer tools were used extensively to
+test on all screen sizes including medium size which I did not otherwise have access to.
+
+I also given close attention to the following scetions:
+
+- Navigation bar
+
+- images
+
+- menu
+
+Tested to open the pages on all sizes available in Chrome, Firefox, but not Edge, as it only had Slider available.
+
+- 60 x 640 Galaxy S5
+- 375 x 667 iPhone 6/7/8
+- 375 x 812 iPhone X
+- 411 x 731 Pixel 2
+- 411 x 823 Pixel 2 XL
+- 414 x 736 iPhone 6/7/8 Plus
+- 768 x 1024 iPad
+- 1024 x 1366 iPad Pro
+
+## Deployment
+
+Steps to deploy the website from GitHub.
+
+- Go to GitHub.
+
+- Click Repositories.
+
+- Locate milestone-project-two.
+
+- Open the repository milestone-project-two
+
+- Click Settings.
+
+- Scroll down to GitHub Pages.
+
+- Select Master branch under Source.
+
+## Credits
+
+- The code for navigation bar is taken inspiration from the [W3scools](https://www.w3schools.com/).
+
+- The code for menu items is written by me and i took the help from my mentor Akshat Garg.
+
+
+
+
+
+
+
+
+
+
 
 
  Demo
