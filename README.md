@@ -32,9 +32,9 @@ lunch menu from monday to friday and dinner menu has starters , meat and fish me
     I draw the images how the webiste looks like so any one who wants to see ,its easy for them to understand the concept
      of the website.
 
- - [Navigation bar]()
+ - [Navigation bar](images/wireframe1.jpg)
 
- - [Website concept]()    
+ - [Website concept](images/wireframe2.jpg)    
 
  ## Features
 
